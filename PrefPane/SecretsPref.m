@@ -13,9 +13,9 @@
 #define kSecretsLiveURL [NSURL URLWithString:@"https://raw.githubusercontent.com/reelgirly/blacktree-secrets/master/PrefPane/Secrets.plist"]
 #define kSecretsSafeURL [NSURL URLWithString:@"https://raw.githubusercontent.com/reelgirly/blacktree-secrets/master/PrefPane/Secrets.plist"]
 #define kSecretsStableURL [NSURL URLWithString:@"https://raw.githubusercontent.com/reelgirly/blacktree-secrets/master/PrefPane/Secrets.plist"]
-#define kSecretsHelpURL [NSURL URLWithString:@"http://code.google.com/p/blacktree-secrets/wiki/Help"]
+#define kSecretsHelpURL [NSURL URLWithString:@"https://github.com/reelgirly/blacktree-secrets"]
 #define kSecretsEditFormatString @"http://secrets.blacktree.com/edit?id=%@"
-#define kSecretsSiteURL [NSURL URLWithString:@"http://secrets.blacktree.com/"]
+#define kSecretsSiteURL [NSURL URLWithString:@"https://github.com/reelgirly/blacktree-secrets"]
 
 
 @interface SecretsPref ()
